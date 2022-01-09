@@ -27,3 +27,4 @@ function showTime(){
 }
 
 showTime();
+document.querySelector(".vid").playbackRate = 2;
